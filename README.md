@@ -10,13 +10,9 @@ Hi, I'm James Argyrakis. �
 - 📫 How to reach me: <mailto>2285278@johnabbottcollege.net</mailto>.
 
 ## ⚙  My Tech Stack 
-<!-->
-C#.
-HTML layout.
--->
+- C#.
+- HTML layout.
 
 ## 🔧 My Favorite Tools 
-<!--
-Google Drive.
-Visual Studio.
--->
+- Google Drive.
+- Visual Studio.
