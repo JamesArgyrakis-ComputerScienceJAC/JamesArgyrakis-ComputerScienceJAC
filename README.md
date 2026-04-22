@@ -1,16 +1,22 @@
 ## Hi there 👋
 
+
+Hi, I'm James Argyrakis. �
+
+- 💻 My passions are critical thinking and profiting.
+- 💼 My occupation is a bagger at a grocery store.
+- 🔭 I’m currently working on de-stressing.
+- 🌱 I’m currently learning computer science.
+- 📫 How to reach me: <mailto>2285278@johnabbottcollege.net</mailto>.
+
+## ⚙  My Tech Stack 
+<!-->
+C#.
+HTML layout.
+-->
+
+## 🔧 My Favorite Tools 
 <!--
-**JamesArgyrakis-ComputerScienceJAC/JamesArgyrakis-ComputerScienceJAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Google Drive.
+Visual Studio.
 -->
